@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">35sp</dimen>
+    <dimen name="digital_small_text_size">15sp</dimen>
+    <dimen name="digital_medium_text_size">25sp</dimen>
+    <dimen name="digital_y_offset">80dp</dimen>
+    <dimen name="digital_line_height">15dp</dimen>
+    <dimen name="digital_space_width">8dp</dimen>
+</resources>
